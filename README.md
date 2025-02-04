@@ -3,6 +3,7 @@ This is a **Data Engineering** and **Data Analytics** POV (Point of View) projec
 
 ## Key Highlights
 - **Data Engineering**: Integrated and processed large datasets using Azure services to ensure smooth data flow and scalability.
+  
 - **Data Analytics**: Used Power BI to create interactive dashboards, visualizing product categories, sales performance, and customer behavior.
 - **Insights**: Provided actionable insights that can help Flipkart optimize its product offerings, marketing strategies, and customer engagement.
 
